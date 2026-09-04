@@ -1,7 +1,7 @@
 # Missing Indicator Method paper
 Data simulation and analysis for assessing whether the missing indicator method is beneficial in longitudinal data modeling 
 
-Title: Imputation and missing indicators for handling missing longitudinal data: A simulation study based on electronic health record data
+Title: [Imputation and missing indicators for handling missing longitudinal data: A simulation study based on electronic health record data](https://medinform.jmir.org/2025/1/e64354/)
 
 Authors: Ehrig, M; Bullock, GS; Leng, X; Pajewski, NM; Speiser, JL
 Department of Biostatistics and Data Science, Wake Forest University School of Medicine, Winston-Salem, NC, USA.
